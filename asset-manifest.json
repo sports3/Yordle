@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Yordle/static/css/main.1601a9d2.css",
-    "main.js": "/Yordle/static/js/main.361d459e.js",
+    "main.js": "/Yordle/static/js/main.0946fda1.js",
     "static/js/787.85ed7ac4.chunk.js": "/Yordle/static/js/787.85ed7ac4.chunk.js",
     "index.html": "/Yordle/index.html",
     "main.1601a9d2.css.map": "/Yordle/static/css/main.1601a9d2.css.map",
-    "main.361d459e.js.map": "/Yordle/static/js/main.361d459e.js.map",
+    "main.0946fda1.js.map": "/Yordle/static/js/main.0946fda1.js.map",
     "787.85ed7ac4.chunk.js.map": "/Yordle/static/js/787.85ed7ac4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1601a9d2.css",
-    "static/js/main.361d459e.js"
+    "static/js/main.0946fda1.js"
   ]
 }
